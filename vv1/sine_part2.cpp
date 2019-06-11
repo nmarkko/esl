@@ -98,7 +98,7 @@ int sc_main(int argc, char* argv[])
 		{
 //			num_t new_value(W, F);
 //			new_value = sine_taylor<num_t>(x_orig[i], DEGREE);
-            // Raèunanje sinusa preko tejlorov razvoja,
+            // RaÃ¨unanje sinusa preko tejlorov razvoja,
             // jer nisam uspeo da parametrizujem sa usranim sc_fix_fast tipom
             sum = 0;
             int k;
